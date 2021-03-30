@@ -1,0 +1,5 @@
+﻿  RED-BLACK_tree.cpp
+E:\108325105_0321\Algorithm\RED-BLACK_tree\RED-BLACK_tree\RED-BLACK_tree.cpp(37,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\108325105_0321\Algorithm\RED-BLACK_tree\RED-BLACK_tree\RED-BLACK_tree.cpp(43,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\108325105_0321\Algorithm\RED-BLACK_tree\RED-BLACK_tree\RED-BLACK_tree.cpp(49,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  RED-BLACK_tree.vcxproj -> E:\108325105_0321\Algorithm\RED-BLACK_tree\Debug\RED-BLACK_tree.exe

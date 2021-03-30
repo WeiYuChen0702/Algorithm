@@ -1,0 +1,4 @@
+﻿  Radix_sort_r_8.cpp
+E:\108325105_0321\Algorithm\RADIX_SORT\Radix_sort_r_8\Radix_sort_r_8\Radix_sort_r_8.cpp(13,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\108325105_0321\Algorithm\RADIX_SORT\Radix_sort_r_8\Radix_sort_r_8\Radix_sort_r_8.cpp(21,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Radix_sort_r_8.vcxproj -> E:\108325105_0321\Algorithm\RADIX_SORT\Radix_sort_r_8\Debug\Radix_sort_r_8.exe

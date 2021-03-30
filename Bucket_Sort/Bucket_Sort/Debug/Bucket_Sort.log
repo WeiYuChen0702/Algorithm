@@ -1,0 +1,8 @@
+﻿  Bucket_Sort.cpp
+E:\108325105_0321\Algorithm\Bucket_Sort\Bucket_Sort\Bucket_Sort.cpp(29,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\108325105_0321\Algorithm\Bucket_Sort\Bucket_Sort\Bucket_Sort.cpp(33,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\108325105_0321\Algorithm\Bucket_Sort\Bucket_Sort\Bucket_Sort.cpp(37,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\108325105_0321\Algorithm\Bucket_Sort\Bucket_Sort\Bucket_Sort.cpp(42,3): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\108325105_0321\Algorithm\Bucket_Sort\Bucket_Sort\Bucket_Sort.cpp(22,17): warning C4101: 'nextnum': 未參考的區域變數
+E:\108325105_0321\Algorithm\Bucket_Sort\Bucket_Sort\Bucket_Sort.cpp(82,11): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Bucket_Sort.vcxproj -> E:\108325105_0321\Algorithm\Bucket_Sort\Debug\Bucket_Sort.exe

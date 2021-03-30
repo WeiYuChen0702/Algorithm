@@ -1,0 +1,5 @@
+﻿  Maximum_Subsequence_problem.cpp
+E:\108325105_0321\Algorithm\Maximum_Subsequence_problem\Maximum_Subsequence_problem\Maximum_Subsequence_problem.cpp(24,1): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+E:\108325105_0321\Algorithm\Maximum_Subsequence_problem\Maximum_Subsequence_problem\Maximum_Subsequence_problem.cpp(27,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\108325105_0321\Algorithm\Maximum_Subsequence_problem\Maximum_Subsequence_problem\Maximum_Subsequence_problem.cpp(36,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Maximum_Subsequence_problem.vcxproj -> E:\108325105_0321\Algorithm\Maximum_Subsequence_problem\Debug\Maximum_Subsequence_problem.exe

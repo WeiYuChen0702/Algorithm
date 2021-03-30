@@ -1,0 +1,33 @@
+﻿  RadixSort.cpp
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(21,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(36,9): warning C4101: 'a': 未參考的區域變數
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(19,6): warning C4101: 'temp2': 未參考的區域變數
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(18,7): warning C4101: 'tempD': 未參考的區域變數
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(20,9): warning C4101: 'store': 未參考的區域變數
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(73,45): warning C4244: '引數': 將 'double' 轉換為 'size_t'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(104,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(108,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(112,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(116,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(127,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(131,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(135,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(139,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(143,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(147,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(151,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(155,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(233,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(237,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(241,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(245,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(260,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(264,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(268,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(272,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(276,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(280,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(284,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(288,41): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\108325105_0321\Algorithm\RadixSort\RadixSort\RadixSort.cpp(353,21): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  RadixSort.vcxproj -> E:\108325105_0321\Algorithm\RadixSort\Debug\RadixSort.exe

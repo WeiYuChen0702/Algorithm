@@ -1,0 +1,7 @@
+﻿  Longest_Common_Subsequence.cpp
+E:\108325105_0321\Algorithm\Longest_Common_Subsequence\Longest_Common_Subsequence\Longest_Common_Subsequence.cpp(45,20): warning C4018: '<=': signed/unsigned 不相符
+E:\108325105_0321\Algorithm\Longest_Common_Subsequence\Longest_Common_Subsequence\Longest_Common_Subsequence.cpp(49,20): warning C4018: '<': signed/unsigned 不相符
+E:\108325105_0321\Algorithm\Longest_Common_Subsequence\Longest_Common_Subsequence\Longest_Common_Subsequence.cpp(53,20): warning C4018: '<': signed/unsigned 不相符
+E:\108325105_0321\Algorithm\Longest_Common_Subsequence\Longest_Common_Subsequence\Longest_Common_Subsequence.cpp(57,20): warning C4018: '<': signed/unsigned 不相符
+E:\108325105_0321\Algorithm\Longest_Common_Subsequence\Longest_Common_Subsequence\Longest_Common_Subsequence.cpp(59,21): warning C4018: '<': signed/unsigned 不相符
+  Longest_Common_Subsequence.vcxproj -> E:\108325105_0321\Algorithm\Longest_Common_Subsequence\Debug\Longest_Common_Subsequence.exe
